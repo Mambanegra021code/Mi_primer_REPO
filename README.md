@@ -1,2 +1,2 @@
 # Mi_primer_REPO
-Primer Repositorio  practicando lo aprendido con P.Villaroel GEN3
+Primer Repositorio, practicando lo aprendido con P.Villaroel GEN3
